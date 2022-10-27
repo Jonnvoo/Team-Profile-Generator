@@ -1,7 +1,7 @@
 # Team-Profile-Generator
 
 ## Description 
-This application was made to produce a HTML file once you run it in node.js. You are asked to add a team memeber to your company. Once you add a team memeber you are then givien a series of questions about that person. Then depending on their role in the company different questions will apear for different roles. You are allowed to add as many team memebers as you want but once your a finished you would then click the "quit" option to exit out the prompts and create your HTML file filled of your team memebers and their information.
+This application was made to produce an HTML file once you run it in node.js. You are asked to add a team member to your company. Once you add a team member you are then given a series of questions about that person. Then depending on their role in the company different questions will appear for various roles. You are allowed to add as many team members as you want but once you finished you would then click the "quit" option to exit out the prompts and create your HTML file filled with your team members and their information.
 
 ## User Story
 AS A manager</br>
@@ -31,7 +31,7 @@ THEN I exit the application, and the HTML is generated</br>
 npm install inquirer@8
 
 ## Usage
-Install the inquirer package so that you are able to run the prmopts when you call the file in node. The command to run the file would "node index.js" after using the command the prompts should run after its been called on.
+Install the inquirer package so that you are able to run the prompts when you call the file in node. The command to run the file would "node index.js" after using the command the prompts should run after it's been called on.
 
 ## ScreenShot 
 
@@ -40,6 +40,7 @@ Html webpage
 ![ ScreenShot](./Develop/imgs/TeamBuildHTMLPNG.PNG)
 
 ## Link
+https://www.youtube.com/watch?v=PnQZUCG7kdE
 
 ## Questions 
 Message me at these links for further questions.
