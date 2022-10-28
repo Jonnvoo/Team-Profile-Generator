@@ -35,9 +35,9 @@ Install the inquirer package so that you are able to run the prompts when you ca
 
 ## ScreenShot 
 
-![ ScreenShot](./Develop/imgs/TeamBuildjs.PNG)
+![ ScreenShot](./imgs/TeamBuildjs.PNG)
 Html webpage 
-![ ScreenShot](./Develop/imgs/TeamBuildHTMLPNG.PNG)
+![ ScreenShot](./imgs/TeamBuildHTMLPNG.PNG)
 
 ## Link
 https://www.youtube.com/watch?v=PnQZUCG7kdE
