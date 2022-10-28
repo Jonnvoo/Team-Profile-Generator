@@ -2,11 +2,11 @@
 const inquirer = require("inquirer");
 const fs = require("fs");
 // These are the functions were are pulling from our test
-const Intern = require("./Develop/lib/Intern")
-const Engineer = require("./Develop/lib/Engineer")
-const Manager = require("./Develop/lib/Manager");
+const Intern = require("./lib/Intern")
+const Engineer = require("./lib/Engineer")
+const Manager = require("./lib/Manager");
 // This is grabbing the document frame to create our html file.
-const generateHtml = require("./Develop/util/generateHtml");
+const generateHtml = require("./util/generateHtml");
 // This is an empty array used to store our Employee's data.
 const employeesArr = [];
 
